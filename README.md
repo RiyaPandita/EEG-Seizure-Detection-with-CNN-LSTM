@@ -41,7 +41,7 @@ Make sure you have Python and the following libraries installed:
 
 1.  Clone the repo:
     ```sh
-    git clone [https://github.com/your_username/your_project_name.git](https://github.com/your_username/your_project_name.git)
+    git clone https://github.com/RiyaPandita/EEG-Seizure-Detection-with-CNN-LSTM/edit/main/README.md
     ```
 2.  Install the required packages:
     ```sh
